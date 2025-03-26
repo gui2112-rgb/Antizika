@@ -64,6 +64,7 @@
             btn_CalcularHash.TabIndex = 0;
             btn_CalcularHash.Text = "Calcular Hash";
             btn_CalcularHash.UseVisualStyleBackColor = false;
+            btn_CalcularHash.Click += btn_CalcularHash_Click;
             // 
             // lbl_AntivirusZika
             // 
